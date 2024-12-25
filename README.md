@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello there! 
+
+I am a Grad Student who loves to learn new things from the entire spectrum of the tech-world. 
+
+Languages i know: 
+Python, golang, c, c++, c#, .NET framework, typescript, javascript, html/css, java and lua
+
+
+
+
+
 
 <!--
 **KirtanSoni/KirtanSoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
