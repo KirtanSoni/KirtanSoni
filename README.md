@@ -3,7 +3,7 @@
 I am a Grad Student who loves to learn new things from the entire spectrum of the tech-world. 
 
 Languages i know: 
-Python, golang, c, c++, c#, .NET framework, typescript, javascript, html/css, java and lua
+Python, golang, c, c++,, c#, .NET framework, typescript, javascript, html/css, java and lua
 
 
 ![Image Description](https://s2jf458j-8080.usw3.devtunnels.ms/images/cat.jpg)
