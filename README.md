@@ -6,7 +6,7 @@ Languages i know:
 Python, golang, c, c++,, c#, .NET framework, typescript, javascript, html/css, java and lua
 
 
-![test](https://s2jf458j-3000.usw3.devtunnels.ms/)
+![test](https://s2jf458j-8080.usw3.devtunnels.ms/images/cat.jpg)
 
 <!--
 **KirtanSoni/KirtanSoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
