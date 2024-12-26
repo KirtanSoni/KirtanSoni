@@ -7,7 +7,7 @@ Python, golang, c, c++,, c#, .NET framework, typescript, javascript, html/css, j
 
 
 ![Image Description](cat.jpg)
-![tes](https://s2jf458j-8080.usw3.devtunnels.ms/)
+![tes](https://s2jf458j-8080.usw3.devtunnels.ms/images/cat.jpg)
 
 <!--
 **KirtanSoni/KirtanSoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
