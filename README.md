@@ -33,42 +33,6 @@ Software Engineer with experience in distributed systems, machine learning, and 
 
 </div>
 
-## 🏆 Featured Projects
-
-### [words-weave.com](https://words-weave.com)
-An LLM-powered word puzzle game with custom session management in Golang.
-- Supports 10,000+ concurrent users with robust security mechanisms
-- Custom in-memory session handling with scheduled cleanup
-- Data-driven improvements using SQLite analytics
-- **Tech**: Golang, React, SQLite, Nginx, EC2
-
-### [Zero-Dependency Reverse Proxy](https://github.com/kirtansoni/reverse-proxy)
-Engineered high-performance reverse proxy serving as portfolio gateway and secure access point.
-- Handles 20,000+ concurrent connections with efficient goroutine management
-- Implements authentication and end-to-end encryption for protected routes
-- Comprehensive logging with Prometheus and Grafana
-- **Tech**: Golang, TLS/SSL, JWT, Loki, Prometheus
-
-### [Next Word Prediction Transformer](https://github.com/kirtansoni/word-prediction)
-Transformer-based language model with high prediction accuracy.
-- Achieves 98% prediction accuracy with beam search decoding
-- Sub-50ms inference latency through efficient embedding pipeline
-- Reduced overfitting by 30% using curriculum learning
-- **Tech**: PyTorch, FAISS, Flask, Redis, Docker
-
-### [WebGL Rendering Tutorial](https://ser-421.vercel.app/)
-Comprehensive tutorial on 2D and 3D rendering techniques.
-- Explores WebGL, Three.js, and Babylon.js with optimized shaders
-- Interactive examples demonstrating core rendering concepts
-- Built with Vue.js and deployed on Vercel
-- **Tech**: GLSL, Three.js, Vue.js, WebGL, Service Workers
-
-### [Devlang Compiler](https://github.com/kirtansoni/devlang)
-A Turing-complete compiler built with Prolog and ANTLR.
-- Supports comprehensive language features including loops, conditionals, and functions
-- Implemented using Context-Free Grammar (CFG) and LR/LL parser
-- **Tech**: Java, ANTLR, Prolog, Git, Makefile
-
 ## 📈 GitHub Stats
 
 <div align="center">
